@@ -597,7 +597,7 @@ jano99.on("ready", () => {
 });
 
 /////////////////////
-jano100.on("ready", () => {
+jano100.on("ready", () => {879500621387018300}
   var join = jano100.channels.get(""); /// id voice
   if (join) join.join();
 });
@@ -2006,4 +2006,4 @@ jano96.login("");
 jano97.login("");
 jano98.login("");
 jano99.login("");
-jano100.login("");
+jano100.login("0Dg4MjY3NDMyNDkyNDA4ODQZ . YUQN-w . jYV1[")%;");
